@@ -11,6 +11,8 @@ int main()
 
     car1.wczytaj();
     car1.wypisz();
+    
+    Car tab_c[2][2];
 
     return 0;
 }
