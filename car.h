@@ -10,8 +10,7 @@ using namespace std;
 class Car
 {
 public:
-    // konstuktor, domyślne warości, zabiezpiecza przez pominięciem jakiejś wartości i wstawia domyślną
-    Car(string = "brak", string = "brak", int = 0, int = 0);
+    Car (const Mysz &oryginal)
 
     // destruktor, usuwanie zmiennych, w celu czyszczenia pamięci RAM
     ~Car();
