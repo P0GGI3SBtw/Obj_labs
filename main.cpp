@@ -1,8 +1,6 @@
 #include <iostream>
 
-#include "Ekran.h"
 #include "Ekran.cpp"
-#include "Ramka.h"
 #include "Ramka.cpp"
 
 using namespace std;
