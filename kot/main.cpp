@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <iostream>
 #include <string>
-#include "Kot.h"
 #include "Kot.cpp"
 
 using namespace std;
