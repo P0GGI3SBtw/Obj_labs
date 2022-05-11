@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <iostream>
-#include "Obywatel.h"
 #include "Obywatel.cpp"
 
 using namespace std;
